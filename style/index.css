@@ -1,0 +1,44 @@
+.charts{
+    display: inline-block;
+    width: 20%;
+    margin-left: 10%;
+    margin-top: 5%;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.bouton_gestion {
+	padding:6px 0 6px 0;
+	background: #604C8D;
+	color:#fff;
+	width:90px;
+	border-radius:2px;
+	border:none;
+    cursor:pointer;
+    float: left;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+.bouton_supprimer {
+	padding:6px 0 6px 0;
+	background: #D61717;
+	color:#fff;
+	width:90px;
+	border-radius:2px;
+	border:none;
+    cursor:pointer;
+    float: right;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.ajout_bat{
+    text-decoration: none;
+    color: black;
+}
+
+.retour_ok{
+    margin: 10px 10px 0px 10px;
+    border: 2px solid green;
+    text-align: center;
+    padding: 5px;
+}

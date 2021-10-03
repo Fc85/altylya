@@ -1,0 +1,26 @@
+.bouton_ajouter{
+	padding:6px 0 6px 0;
+	background: #604C8D;
+	color:#fff;
+	width:90px;
+	border-radius:2px;
+	border:none;
+    cursor:pointer;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    float: right;
+}
+
+li{
+    list-style: none;
+}
+
+.div_formulaire{
+    display: inline-block;
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 5%;
+    border: 2px solid black;
+    text-align: center;
+    padding: 5px;
+}
